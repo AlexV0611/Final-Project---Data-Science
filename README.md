@@ -1,3 +1,4 @@
 # Final-Project---Data-Science
 
-Proyecto final de Bootcamp de Data Science. ML para clasificación de géneros musicales.
+Final project for the Data Science Bootcamp at the IT Academy in Barcelona. 
+Application of Machine Learning for the classification of music genres.
